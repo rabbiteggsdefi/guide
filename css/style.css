@@ -326,8 +326,16 @@ a:focus {
   padding: 5px;
 }
 
+.card-img-t {
+  max-width: 100%;
+  height: auto;
+}
 
-
+.mid-section {
+  padding: 0 10px;
+  font-size: large;
+  font-family: "Roboto", sans-serif;
+}
 /* end service section */
 
 
