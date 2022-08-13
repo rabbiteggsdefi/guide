@@ -326,6 +326,15 @@ a:focus {
   padding: 5px;
 }
 
+.vlink {
+  padding: 2px;
+  color: #505AC9;
+  border: 1px solid #505AC9;
+  border-radius: 5px;
+  font-size: medium;
+  float: right;
+}
+
 .card-img-t {
   max-width: 100%;
   height: auto;
