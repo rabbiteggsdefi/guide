@@ -335,6 +335,11 @@ a:focus {
   float: right;
 }
 
+.card-daigram {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .card-img-t {
   max-width: 100%;
   height: auto;
